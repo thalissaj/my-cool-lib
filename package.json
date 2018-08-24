@@ -1,0 +1,19 @@
+{
+  "name": "my-cool-lib",
+  "version": "1.0.0",
+  "description": "trying create a lib",
+  "main": "index.js",
+  "scripts": {
+    "test": "hello()"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/thalissaj/my-cool-lib.git).git"
+  },
+  "author": "Thalisses Correa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thalissaj/my-cool-lib.git)/issues"
+  },
+  "homepage": "https://github.com/thalissaj/my-cool-lib.git)#readme"
+}
